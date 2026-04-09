@@ -1,7 +1,7 @@
 # Linux & Windows Security Basics
 
-![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/MartinZamboninoG/linux-windows-security-basics/ci.yml?branch=main)
-![License](https://img.shields.io/github/license/MartinZamboninoG/linux-windows-security-basics)
+![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/martinzambonino/linux-windows-security-basics/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/martinzambonino/linux-windows-security-basics)
 
 ## What It Does
 
@@ -25,7 +25,7 @@ A practical guide and script collection for operating system security hardening 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MartinZamboninoG/linux-windows-security-basics.git
+git clone https://github.com/martinzambonino/linux-windows-security-basics.git
 cd linux-windows-security-basics
 
 # Linux hardening scripts (run in a lab VM — NEVER on production)
